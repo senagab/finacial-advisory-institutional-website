@@ -1,5 +1,3 @@
-# Institutional Website
-
 # Financial Advisory Institutional Website
 
 This project involves the development of a professional and modern institutional website for a financial advising firm. The site will serve as an informative platform for potential clients, offering an overview of the company’s services, financial expertise, and team credentials.
